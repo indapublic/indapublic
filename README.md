@@ -1,26 +1,35 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=indapublic&label=Profile%20views&color=orange&style=flat" alt="indapublic" />
-</p>
+# Vasilii Zolotukhin
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=indapublic&theme=onedark" alt="indapublic" />
-  </a>
-</p>
+**Senior React Native / Frontend Engineer** · 22 years in software · remote, UTC+10
 
-<p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=indapublic&theme=onedark" alt="indapublic" />
-</p>
+I ship mobile and web products end to end: architecture, design systems, releases in the App Store and Google Play, and the unglamorous parts — tests, observability, and specs that survive contact with production.
 
-<p align="left">  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=indapublic&count_private=true&show_icons=true&theme=onedark" />
-</p>
+## Focus
 
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indapublic&theme=onedark&layout=compact" />
-</p>
+- **Mobile:** React Native, Expo, TypeScript, Redux Toolkit, MobX, native modules, store releases
+- **Web:** React, Next.js, complex SPAs, design systems, Storybook
+- **Architecture:** multi-brand apps on one core ("skeleton + skin"), microservices, RBAC, real-time data
+- **Fullstack when needed:** Node.js, PHP/Symfony, Python, PostgreSQL, Docker
+- **AI-first delivery:** Claude Code / Codex with spec-driven development, explicit context, and human review gates
 
-<!---
-indapublic/indapublic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Selected work
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [solar-system-webgpu](https://github.com/indapublic/solar-system-webgpu) | Interactive Solar System on raw WebGPU — real ephemerides, planet maps, constellations ([demo](https://indapublic.github.io/solar-system-webgpu/)) | WebGPU, WGSL, JavaScript |
+| Yoney | Personal finance manager: accounts, goals, debts, history — App Store, Google Play, Huawei | React Native, Symfony, GraphQL, Docker |
+| KAR series | Five dance-competition apps for Kids Artistic Revue (US) on one shared core | React Native, TypeScript, Redux Toolkit |
+| Macroactive | White-label platform for fitness coaches: 400+ apps, release cycle cut from days to two hours | React Native, Vue, Symfony |
+
+## How I work with AI
+
+I use coding agents as a delivery tool, not a gimmick: a written spec before any code, small tasks, tests as the contract, and a human review checklist. The agent does the typing; architecture, trade-offs, and final review stay with me.
+
+## Elsewhere
+
+- Portfolio and case studies: [zolotukh.in](https://zolotukh.in)
+- LinkedIn: [in/zolotukh-in](https://www.linkedin.com/in/zolotukh-in/)
+- Telegram: [@zolotukhin](https://t.me/zolotukhin)
+- Email: vasilii.zolotukhin@gmail.com
+
+Open to senior remote roles in React Native, frontend, or fullstack.
