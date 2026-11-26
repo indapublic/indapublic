@@ -1,6 +1,6 @@
 # Vasilii Zolotukhin
 
-**Senior React Native / Frontend Engineer** · 22 years in software · remote, UTC+10
+**Senior React Native / Frontend Engineer** · 20+ years in software · remote, UTC+10
 
 I ship mobile and web products end to end: architecture, design systems, releases in the App Store and Google Play, and the unglamorous parts — tests, observability, and specs that survive contact with production.
 
